@@ -1,0 +1,23 @@
+// abstracts/ 
+@import 
+'abstracts/variables';
+// base/ 
+@import 
+'base/base',
+'base/reset',
+'base/typography'; 
+// components/
+@import 
+'components/buttons',  
+'components/logos';
+// layout/ 
+@import 
+'layout/contact',
+'layout/proyectos',
+'layout/inicio';
+// pages/ 
+// themes/
+// vendors/ 
+@import
+'vendors/fontawesome',
+'vendors/bootstrap';

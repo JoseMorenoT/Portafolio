@@ -1,0 +1,19 @@
+.Inicio {
+    // display: flex;
+    // justify-content: space-evenly;
+    // align-items: center;
+    // width: 100%;
+
+    // &__image {
+    //     width: 50%;
+    // }
+
+    &__image img {
+        width: 300px;
+        height: 300px;
+    }
+
+    // &__texto {
+    //     width: 50%;
+    // }
+}
